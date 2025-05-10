@@ -1,0 +1,1 @@
+renderPage("auth-page");
